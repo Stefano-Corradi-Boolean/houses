@@ -1,0 +1,11 @@
+reference,address,cap,city,state,square_meters,rooms,bathrooms,type,description,price,is_avaliable,energy_rating
+APT000001,Via Roma 1,00100,Roma,Lazio,80,3,2,Appartamento,"Luminoso appartamento in centro città, vicino a tutti i servizi.",250000.00,1,A+
+APT000002,Via Milano 10,20100,Milano,Lombardia,60,2,1,Appartamento,"Appartamento moderno in zona tranquilla e ben collegata.",200000.00,1,B
+APT000003,Corso Torino 5,10100,Torino,Piemonte,75,3,2,Appartamento,"Appartamento in zona residenziale, ideale per famiglie.",220000.00,0,A
+APT000004,Via Napoli 8,80100,Napoli,Campania,90,4,2,Appartamento,"Appartamento con vista mare, ristrutturato recentemente.",280000.00,1,A+
+APT000005,Via Firenze 3,50100,Firenze,Toscana,85,3,1,Appartamento,"Appartamento con terrazzo panoramico in zona collinare.",260000.00,0,B+
+APT000006,Via Palermo 22,90100,Palermo,Sicilia,70,3,1,Appartamento,"Appartamento in centro storico, ottimo investimento.",180000.00,1,C
+APT000007,Via Venezia 7,30100,Venezia,Veneto,60,2,1,Appartamento,"Appartamento storico, ideale per affitti brevi.",300000.00,1,B
+APT000008,Via Bologna 13,40100,Bologna,Emilia-Romagna,90,4,2,Appartamento,"Appartamento di lusso con finiture di pregio.",400000.00,1,A+
+APT000009,Via Bari 5,70100,Bari,Puglia,100,5,3,Appartamento,"Appartamento signorile in zona centrale.",320000.00,0,A
+APT000010,Via Cagliari 9,09100,Cagliari,Sardegna,80,3,2,Appartamento,"Appartamento con giardino privato e posto auto.",270000.00,1,B+

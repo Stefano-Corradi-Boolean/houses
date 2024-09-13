@@ -13,7 +13,8 @@ return new class extends Migration
     {
         Schema::create('houses', function (Blueprint $table) {
             $table->id();
-            $table->string('reference', 12);
+            $table->string('reference', 50);
+            $table->string('slug', 255)->unique();
             $table->string('address', 150);
             $table->string('cap', 10);
             $table->string('city', 50);
